@@ -75,19 +75,19 @@ Repeat this process to all brushes you want to back up, and also for other optio
 
 (author note: you can save all brushes you costomized from Krita's defaul brush presets by choosing "Brush Presets" in Type selector).
 
-After all items selected, click in save. 
+After all items selected, click in "Save". 
 
 # Keep your backup safe!
 
 <h3> Steps </h3>
 
-Access your Krita's path, there it could be find another directories. The files created in the step <a href="https://github.com/kazzmy/krita_backup/blob/master/Backup%20Instructions.md"> Backup Instruction </a> could be find in the directories below:
+In Krita's path another directories could be found. The files created in the previous steps could be find in the directories below:
 
-1. Workspace: /home/user_name/.local/share/krita/workspaces
+1. Workspace: /home/user_name/.local/share/krita/orkspaces
 
 Workspace file has .kws extension
 
-2. Palettes: /home/user_name/.local/share/krita/
+2. Palettes: /home/user_name/.local/share/krita/palettes
 
 Palettes file has .kpl extension
 
@@ -98,5 +98,9 @@ Shortcut files has .shortcuts extension
 4. Canvas Input /home/user_name/.local/share/krita/input
 
 Canvas Input has .profile extension
+
+5. Bundles /home/user_name/.local/share/krita/bundles
+
+Bundles has .bundle extension
 
 Save these files in a safe place!
