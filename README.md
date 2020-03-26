@@ -16,4 +16,7 @@ All Krita's files could be found at the path /home/user_name/.local/share/krita
 
 ![Actual workspace](https://github.com/kazzmy/krita_backup/blob/master/screenshots/workspace_screenshot.png)
 
-<h2> Krita version 4.2.9 - Beta (date: 2020-03-25)</h2>
+<h3> Krita version 4.2.9 - Beta (date: 2020-03-25)</h3>
+
+<h3> <a href="https://docs.krita.org/en/"> Krita's official Documentation </a> 
+
