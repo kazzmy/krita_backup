@@ -9,7 +9,7 @@ All Krita's files could be found at the path /home/user_name/.local/share/krita
 
 <ul>
     <li> <a href="https://github.com/kazzmy/krita_backup/blob/master/Backup%20Instructions.md"> Backup Instruction </a> </li>
-    <li> <a href=""> Recovery </a> </li>
+    <li> <a href="https://github.com/kazzmy/krita_backup/blob/master/Recovery%20Instructions.md"> Recovery Instructions </a> </li>
 </ul>
 
 <h2> Actual Workspace 2020-03-25 </h2>
