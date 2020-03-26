@@ -5,6 +5,8 @@ Instructions for backup and recovery of Krita's settings
 
 All Krita's files could be found at the path /home/user_name/.local/share/krita
 
+Another file to backup is .config/kritarc 
+
 <b> ATENTION: </b> replace "user_name" to your user
 
 <ul>
