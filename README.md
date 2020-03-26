@@ -7,7 +7,7 @@ ATENTION: replace "user_name" to your user
 
 <h2> Actual Workspace 2020-03-25 </h2>
 
-![Actual workspace](https://github.com/kazzmy/krita_backups/blob/master/screenshots/workspace_screenshot.png)
+![Actual workspace](https://github.com/kazzmy/krita_backup/blob/master/screenshots/workspace_screenshot.png)
 
 <h2> Saving Custom Workspace </h2>
 
@@ -56,7 +56,7 @@ A new window will open:
 
 ![click image to open expanded view: new tab will open](https://github.com/kazzmy/krita_backups/blob/master/screenshots/create_Resource_Bundle_screenshot.png)
 
-Fill the fields with your own preferences, and shoose the local to save your new bundle
+Fill the fields with your own preferences, and choose the local to save your new bundle
 
 ![click image to open expanded view: new tab will open]()
 
